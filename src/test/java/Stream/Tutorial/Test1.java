@@ -9,7 +9,7 @@ public class Test1 {
 	@Test
 	public void test1(){
 		ArrayList<String> list = new ArrayList<String>();
-		
+		System.out.println(" ");
 		list.add("Amit");
 		list.add("Sanjeev");
 		list.add("Aneesh");
